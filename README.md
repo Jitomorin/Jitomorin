@@ -10,7 +10,7 @@ I have been coding for over 3 years before starting computer science at Strathmo
 * ✉️  You can contact me at [Shulufue@gmail.com](mailto:Shulufue@gmail.com)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Any unique projects
-* ⚡  I love watching anime and reading manga and do nothing else in my free time apart from programming
+* ⚡  I love watching anime and reading manga and programming
 
 ### Skills
 
