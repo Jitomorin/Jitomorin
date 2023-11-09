@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jitomorin.Jitomorin)
 
 </p>
-<div size='20px'> Greetings! My name is Fue Idriss Shulu. A Front-end developer :smile: 
+<div size='20px'> Greetings! My name is Fue Idriss Shulu. A Full-stack developer :smile: 
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
